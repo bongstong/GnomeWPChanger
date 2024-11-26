@@ -11,3 +11,11 @@ gnome background. And it uses `time` to wait when not changing the picture,
 To make the program work, you must write the path of the wallpapers in the
 path variable. I could do a input function, but this would require to write
 it everytime.
+
+# How to run:
+
+Paste into the terminal:
+```git clone https://github.com/bongstong/GnomeWPChanger```
+
+Then `cd GnomeWPChanger` And in order to run the program run
+```python set-wp.py```
