@@ -15,7 +15,8 @@ it everytime.
 # How to run:
 
 Paste into the terminal:
-```git clone https://github.com/bongstong/GnomeWPChanger```
+```sh
+git clone https://github.com/bongstong/GnomeWPChanger```
 
 Then `cd GnomeWPChanger` And in order to run the program run
 ```python set-wp.py```
