@@ -21,3 +21,8 @@ git clone https://github.com/bongstong/GnomeWPChanger
 
 Then `cd GnomeWPChanger` And in order to run the program run
 ```python set-wp.py```
+
+# Don't use this on your computer
+I first made this for fun, and to train a bit. If you want to use this,
+it is better to use the [C++ version](https://github.com/bongstong/GnomeBackgroundChanger), which is more lightweight,
+and way better then the python version, since it uses less ressources.
